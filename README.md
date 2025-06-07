@@ -1,6 +1,7 @@
 # RISC-V-Simulator
 
-This repository contains a basic RISC-V instruction set simulator written in Python. It supports a core subset of instructions and allows step-by-step execution of RISC-V assembly programs for educational and performance analysis purposes.
+This project is a basic RISC-V instruction simulator written in Python. It reads from a program.txt file, which contains RISC-V assembly instructions and input values. The interpreter processes these instructions sequentially, simulating a register file and memory, and produces the final state of the system along with performance statistics.
+
 
 📌 Features
 ✅ Supports core RISC-V instructions:
