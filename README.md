@@ -17,4 +17,4 @@ ADD, SUB, LW, SW, BEQ, JAL
 
 🔁 Control flow support via branching and jumps
 
-*Disclaimer: Instructions BEQ and JAL do not work yet.
+*Disclaimer*: Instructions BEQ and JAL do not work yet.
